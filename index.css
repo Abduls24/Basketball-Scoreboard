@@ -30,11 +30,12 @@ h3 {
 .score {
     font-family: CursedTimer;
     text-align: center;
+    font-size: 90px;
     margin-top: 0;
     background-color: #080001;
     border-radius: 5px;
     width: 140px;
-    height: 100px;
+    /* height: 100px; */
     color: #F94F6D;
 }
 
