@@ -42,19 +42,8 @@ h2 {
     border-radius: 5px;
 }
 
-/* .score {
-    font-family: CursedTimer;
-    text-align: center;
-    margin-top: 0;
-    background-color: #080001;
-    border-radius: 5px;
-    width: 140px;
-    height: 100px;
-    color: #F94F6D;
-} */
-
 .btn {
-    margin-left: 12px;
+    margin-left: auto;
 }
 
 button {
